@@ -8,6 +8,9 @@
   <action id="ExtractInterface">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl colon" second-keystroke="m" />
   </action>
@@ -25,4 +28,10 @@
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="s" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="h" />
+  </action>
 </keymap>
