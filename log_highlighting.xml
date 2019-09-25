@@ -5,6 +5,9 @@
         <LogHighlightingPattern pattern="^\s*e(rror)?\s*$" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" />
         <LogHighlightingPattern pattern="^\s*w(arn(ing)?)?\s*$" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="^\s*i(nfo)?\s*$" action="HIGHLIGHT_LINE" fg="-12599489" />
+        <LogHighlightingPattern pattern="i(nfo)" action="HIGHLIGHT_LINE" fg="-12599489" />
+        <LogHighlightingPattern pattern="d(ebug)" action="HIGHLIGHT_LINE" fg="-4211147" />
+        <LogHighlightingPattern pattern="e(rror)" action="HIGHLIGHT_LINE" fg="-65536" bold="true" stripe="true" />
       </list>
     </Patterns>
     <parsing>
