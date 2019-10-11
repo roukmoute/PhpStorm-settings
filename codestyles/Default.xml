@@ -31,16 +31,19 @@
               <match>
                 <PUBLIC>true</PUBLIC>
               </match>
+              <order>BY_NAME</order>
             </rule>
             <rule>
               <match>
                 <PROTECTED>true</PROTECTED>
               </match>
+              <order>BY_NAME</order>
             </rule>
             <rule>
               <match>
                 <PRIVATE>true</PRIVATE>
               </match>
+              <order>BY_NAME</order>
             </rule>
           </rules>
         </token>
@@ -94,6 +97,12 @@
           </rules>
         </token>
       </tokens>
+      <groups>
+        <group>
+          <type>OVERRIDDEN_METHODS</type>
+          <order>KEEP</order>
+        </group>
+      </groups>
       <rules>
         <section>
           <rule>
@@ -114,6 +123,7 @@
                 <modifiers />
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
