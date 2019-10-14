@@ -4,9 +4,10 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.html" />
+        <option value="ci.yml" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.html" />
+    <option name="lastOpenedScratch" value="ci.yml" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
