@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="Jakefile" type="PLAIN_TEXT" />
       <mapping pattern="checkLowBattery" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
