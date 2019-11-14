@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
+    <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.php4</mask>
@@ -14,6 +15,5 @@
     <mask>*.ctp</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
-    <mask>*.html</mask>
   </component>
 </application>
