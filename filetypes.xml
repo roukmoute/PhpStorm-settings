@@ -5,6 +5,7 @@
       <mapping pattern=".phlogger" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="checkLowBattery" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
