@@ -5,8 +5,9 @@
       <list>
         <option value="scratch.json" />
         <option value="scratch.txt" />
+        <option value="todo_cnam.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="todo_cnam.txt" />
   </component>
 </application>
