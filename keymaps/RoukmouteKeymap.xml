@@ -3,6 +3,10 @@
     <keyboard-shortcut first-keystroke="alt 5" />
     <keyboard-shortcut first-keystroke="alt left_parenthesis" />
   </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="alt quotedbl" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="alt ampersand" />
