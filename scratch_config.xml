@@ -8,9 +8,10 @@
         <option value="_scratch.txt" />
         <option value="_scratch.json" />
         <option value="todo_cnam.txt" />
+        <option value="cqrs_test.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="cqrs_test.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
