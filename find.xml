@@ -13,7 +13,7 @@
     <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.ctp</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
