@@ -16,9 +16,10 @@
         <option value="scratch.html" />
         <option value="satis.txt" />
         <option value="vmware.txt" />
+        <option value="composer_linux_windows.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam_todo.txt" />
+    <option name="lastOpenedScratch" value="composer_linux_windows.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
