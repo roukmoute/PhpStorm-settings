@@ -18,9 +18,10 @@
         <option value="vmware.txt" />
         <option value="composer_linux_windows.md" />
         <option value="declare.ameli.fr" />
+        <option value="scratch.js" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="declare.ameli.fr" />
+    <option name="lastOpenedScratch" value="scratch.js" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
