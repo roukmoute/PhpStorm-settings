@@ -19,9 +19,10 @@
         <option value="composer_linux_windows.md" />
         <option value="declare.ameli.fr" />
         <option value="scratch.js" />
+        <option value="depot_garantie.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="depot_garantie.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
