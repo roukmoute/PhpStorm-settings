@@ -20,9 +20,10 @@
         <option value="declare.ameli.fr" />
         <option value="scratch.js" />
         <option value="depot_garantie.txt" />
+        <option value="error_cnam_composer.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="_scratch.json" />
+    <option name="lastOpenedScratch" value="error_cnam_composer.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
