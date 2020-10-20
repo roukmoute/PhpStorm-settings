@@ -6,6 +6,7 @@
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="phpunit" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
       <mapping pattern="run_test" type="PLAIN_TEXT" />
