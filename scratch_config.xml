@@ -5,7 +5,7 @@
       <list>
         <option value="scratch.json" />
         <option value="scratch.txt" />
-        <option value="cnam_todo.txt" />
+        <option value="cnam.txt" />
         <option value="_scratch.json" />
         <option value="cqrs_test.txt" />
         <option value="cqrs_versionning.txt" />
@@ -22,7 +22,7 @@
         <option value="error_cnam_composer.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam_todo.txt" />
+    <option name="lastOpenedScratch" value="cnam.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
