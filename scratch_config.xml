@@ -20,9 +20,10 @@
         <option value="scratch.js" />
         <option value="depot_garantie.txt" />
         <option value="error_cnam_composer.txt" />
+        <option value="scratch.sh" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="scratch.sh" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
