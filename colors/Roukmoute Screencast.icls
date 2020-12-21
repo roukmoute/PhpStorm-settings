@@ -1,0 +1,14 @@
+<scheme name="Roukmoute Screencast" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-12-21T11:10:28</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2020.3.0.0</property>
+    <property name="modified">2020-12-21T11:22:04</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
+</scheme>
