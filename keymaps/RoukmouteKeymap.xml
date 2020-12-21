@@ -28,18 +28,22 @@
   <action id="GotoBookmark0">
     <keyboard-shortcut first-keystroke="ctrl 0" />
     <keyboard-shortcut first-keystroke="ctrl #10000e0" />
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
   </action>
   <action id="GotoBookmark1">
     <keyboard-shortcut first-keystroke="ctrl 1" />
     <keyboard-shortcut first-keystroke="ctrl ampersand" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="GotoBookmark2">
     <keyboard-shortcut first-keystroke="ctrl 2" />
     <keyboard-shortcut first-keystroke="ctrl #10000e9" />
+    <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
   <action id="GotoBookmark3">
     <keyboard-shortcut first-keystroke="ctrl 3" />
     <keyboard-shortcut first-keystroke="ctrl quotedbl" />
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
   </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl colon" second-keystroke="m" />
