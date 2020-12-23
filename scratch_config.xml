@@ -23,7 +23,7 @@
         <option value="scratch.sh" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.php" />
+    <option name="lastOpenedScratch" value="scratch.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
