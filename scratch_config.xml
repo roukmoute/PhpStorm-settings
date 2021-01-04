@@ -21,9 +21,10 @@
         <option value="depot_garantie.txt" />
         <option value="error_cnam_composer.txt" />
         <option value="scratch.sh" />
+        <option value="lemonde.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam.txt" />
+    <option name="lastOpenedScratch" value="lemonde.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
