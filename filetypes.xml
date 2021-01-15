@@ -15,6 +15,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="rpm" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping ext="volt" type="Twig" />
       <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
