@@ -29,6 +29,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.as">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ats">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.bash">
           <value>
             <plugin>
@@ -72,6 +90,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cjs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.composerlog">
           <value>
             <plugin>
@@ -95,6 +122,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.css">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.css" />
+              <option name="myPluginName" value="CSS" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -247,6 +283,24 @@
             <plugin>
               <option name="myPluginId" value="ru.adelf.idea.dotenv" />
               <option name="myPluginName" value=".env files support" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.es">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.es6">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -466,6 +520,42 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.js">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.js.flow">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.js2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jshintrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.json">
           <value>
             <plugin>
@@ -480,6 +570,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -515,6 +614,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.mjs">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -831,6 +939,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.snap">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.sql">
           <value>
             <plugin>
@@ -903,11 +1020,29 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ts">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.tsv">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.database" />
               <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tsx">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1245,6 +1380,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="jshint.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="makefile">
           <value>
             <plugin>
@@ -1258,6 +1402,24 @@
             <plugin>
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="tsconfig.json">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="yarn.lock">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="JavaScript" />
+              <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
