@@ -547,6 +547,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.jsb2">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jsb3">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.jshintrc">
           <value>
             <plugin>
@@ -1235,6 +1253,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".babelrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".bash_aliases">
           <value>
             <plugin>
@@ -1292,7 +1319,70 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".eslintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".eslintrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".gitmodules">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".jshintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".node-version">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".npmignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".npmrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".nvmrc">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1306,6 +1396,33 @@
             <plugin>
               <option name="myPluginId" value="pro.bashsupport" />
               <option name="myPluginName" value="BashSupport Pro" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".stylelintignore">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".stylelintrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".yarnrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1362,6 +1479,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="bowerrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="composer.lock">
           <value>
             <plugin>
@@ -1376,6 +1502,15 @@
             <plugin>
               <option name="myPluginId" value="Git4Idea" />
               <option name="myPluginName" value="Git" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="jest.config">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1465,6 +1600,16 @@
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
                     </value>
                   </entry>
+                  <entry key="JavaScriptTestRunnerJest">
+                    <value>
+                      <FeaturePluginData displayName="Jest" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="JavaScriptTestRunnerProtractor">
+                    <value>
+                      <FeaturePluginData displayName="Protractor" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
                   <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
@@ -1533,6 +1678,21 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="js.build_tools.grunt">
+                    <value>
+                      <FeaturePluginData displayName="Grunt.js" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="js.build_tools.gulp">
+                    <value>
+                      <FeaturePluginData displayName="Gulp.js" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
+                    </value>
+                  </entry>
+                  <entry key="js.build_tools.npm">
+                    <value>
+                      <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" />
                     </value>
                   </entry>
                 </map>
