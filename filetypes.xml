@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="css" type="CSS" />
-      <mapping ext="js" type="JavaScript" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
