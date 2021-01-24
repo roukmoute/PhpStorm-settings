@@ -22,9 +22,10 @@
         <option value="error_cnam_composer.txt" />
         <option value="scratch.sh" />
         <option value="lemonde.txt" />
+        <option value="screencast.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="lemonde.txt" />
+    <option name="lastOpenedScratch" value="screencast.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
