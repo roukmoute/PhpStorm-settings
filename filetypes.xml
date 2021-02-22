@@ -12,6 +12,7 @@
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="rpm" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
