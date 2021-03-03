@@ -1,13 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="pre-push" type="BashPro Shell Script" />
-      <mapping pattern="run_test" type="BashPro Shell Script" />
-      <mapping pattern="pre-commit" type="BashPro Shell Script" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern="phpunit" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="phpunit" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
@@ -18,6 +15,9 @@
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
       <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="BashPro Shell Script" />
+      <mapping pattern="pre-push" type="BashPro Shell Script" />
+      <mapping pattern="run_test" type="BashPro Shell Script" />
     </extensionMap>
   </component>
 </application>
