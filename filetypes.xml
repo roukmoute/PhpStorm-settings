@@ -8,6 +8,7 @@
       <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
