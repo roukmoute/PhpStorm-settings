@@ -4,7 +4,6 @@
       <mapping pattern="pre-push" type="BashPro Shell Script" />
       <mapping pattern="run_test" type="BashPro Shell Script" />
       <mapping pattern="pre-commit" type="BashPro Shell Script" />
-      <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="phpunit" type="PLAIN_TEXT" />
@@ -12,6 +11,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
