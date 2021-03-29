@@ -19,5 +19,6 @@
     <mask>*.yml</mask>
     <mask>*.volt</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
