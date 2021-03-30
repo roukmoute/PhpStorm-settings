@@ -15,7 +15,6 @@
         <option value="satis.txt" />
         <option value="vmware.txt" />
         <option value="composer_linux_windows.md" />
-        <option value="declare.ameli.fr" />
         <option value="scratch.js" />
         <option value="depot_garantie.txt" />
         <option value="error_cnam_composer.txt" />
@@ -24,6 +23,7 @@
         <option value="screencast.txt" />
         <option value="scratch.html" />
         <option value="rem.txt" />
+        <option value="scratch.md" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="scratch.txt" />
