@@ -25,9 +25,10 @@
         <option value="rem.txt" />
         <option value="scratch.md" />
         <option value="Dockerfile" />
+        <option value="rest-api.http" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.php" />
+    <option name="lastOpenedScratch" value="rest-api.http" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
