@@ -74,6 +74,9 @@
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="Tool_External Tools_test">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="UnselectPreviousOccurrence">
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
@@ -85,5 +88,8 @@
   </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="h" />
+  </action>
+  <action id="com.dubreuia.core.action.ShortcutAction">
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
 </keymap>
