@@ -12,6 +12,7 @@
       <mapping pattern=".gittemplate" type="PLAIN_TEXT" />
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="fragments" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
