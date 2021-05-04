@@ -1,0 +1,26 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <global-watchers>
+      <TaskOptions>
+        <option name="arguments" value="fix $FileDir$/$FileName$ --using-cache=no --config=/home/roukmoute/.config/composer/.php_cs.dist" />
+        <option name="checkSyntaxErrors" value="true" />
+        <option name="description" />
+        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="fileExtension" value="php" />
+        <option name="immediateSync" value="true" />
+        <option name="name" value="PHP-CS-Fixer" />
+        <option name="output" value="" />
+        <option name="outputFilters">
+          <array />
+        </option>
+        <option name="outputFromStdout" value="false" />
+        <option name="program" value="$USER_HOME$/.config/composer/vendor/friendsofphp/php-cs-fixer/php-cs-fixer" />
+        <option name="runOnExternalChanges" value="false" />
+        <option name="scopeName" value="Current File" />
+        <option name="trackOnlyRoot" value="false" />
+        <option name="workingDir" value="" />
+        <envs />
+      </TaskOptions>
+    </global-watchers>
+  </component>
+</application>
