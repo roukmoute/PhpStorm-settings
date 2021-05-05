@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Dockerpouet" type="AUTO_DETECTED" />
       <mapping ext="sh" type="AUTO_DETECTED" />
+      <mapping ext="mp4" type="Native" />
       <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
