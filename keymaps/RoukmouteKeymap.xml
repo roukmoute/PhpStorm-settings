@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="alt ampersand" />
   </action>
+  <action id="Console.Jdbc.Debug">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="EditorDecreaseFontSize">
