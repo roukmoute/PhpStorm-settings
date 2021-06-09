@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="symfony_linux_386" type="AUTO_DETECTED" />
       <mapping pattern="Dockerpouet" type="AUTO_DETECTED" />
-      <mapping ext="sh" type="AUTO_DETECTED" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
