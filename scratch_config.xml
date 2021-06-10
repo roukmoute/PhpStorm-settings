@@ -20,7 +20,6 @@
         <option value="error_cnam_composer.txt" />
         <option value="scratch.sh" />
         <option value="lemonde.txt" />
-        <option value="screencast.txt" />
         <option value="scratch.html" />
         <option value="rem.txt" />
         <option value="scratch.md" />
@@ -30,10 +29,10 @@
         <option value="http-client.env.json" />
         <option value="http-client.private.env.json" />
         <option value="rest-api_2.http" />
-        <option value="facturation.txt" />
+        <option value="roukmouteDev.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="rest-api_1.http" />
+    <option name="lastOpenedScratch" value="roukmouteDev.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
