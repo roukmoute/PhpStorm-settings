@@ -11,7 +11,7 @@
       <option name="SHELL_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="jp" value="read -t $sleep&#10;xdotool key &quot;Ctrl+semicolon&quot;&#10;read -t $sleep&#10;xdotool type --delay 300 &quot;$END$&quot;;&#10;read -t $sleep&#10;xdotool key &quot;Return&quot;" toReformat="false" toShortenFQNames="true">
+  <template name="jp" value="read -t $sleep&#10;xdotool key &quot;Ctrl+e&quot;&#10;read -t $sleep&#10;xdotool type --delay 300 &quot;$END$&quot;;&#10;read -t $sleep&#10;xdotool key &quot;Return&quot;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SHELL_SCRIPT" value="true" />
     </context>
