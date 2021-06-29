@@ -21,4 +21,12 @@
       <option name="SHELL_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="ms" value="xdotool mousedown 1&#10;for x in {$FROM$..$TO$}; do&#10;  xdotool mousemove $x $Y$&#10;done&#10;xdotool mouseup 1" description="Mouse Selection" toReformat="false" toShortenFQNames="true">
+    <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Y" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
