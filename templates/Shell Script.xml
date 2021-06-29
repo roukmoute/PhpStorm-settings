@@ -1,0 +1,12 @@
+<templateSet group="Shell Script">
+  <template name="xk" value="&#10;read -t $sleep&#10;xdotool key &quot;$END$&quot;" description="xdotools key" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="xt" value="&#10;&#10;read -t $sleep&#10;xdotool type --delay 300 &quot;$END$&quot;;" description="xdotools type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
