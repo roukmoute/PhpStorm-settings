@@ -1,5 +1,7 @@
 <templateSet group="Shell Script">
-  <template name="xk" value="read -t $sleep&#10;xdotool key &quot;$END$&quot;" description="xdotools key" toReformat="false" toShortenFQNames="true">
+  <template name="xk" value="read -t $sleep&#10;xdotool key --repeat $REPEAT$ --repeat-delay $DELAY$ &quot;$END$&quot;" description="xdotools key" toReformat="false" toShortenFQNames="true">
+    <variable name="REPEAT" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <variable name="DELAY" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
     <context>
       <option name="SHELL_SCRIPT" value="true" />
     </context>
