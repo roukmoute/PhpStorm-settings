@@ -6,7 +6,7 @@
       <option name="SHELL_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="xt" value="read -t $sleep&#10;xdotool type --delay 300 &quot;$END$&quot;;" description="xdotools type" toReformat="false" toShortenFQNames="true">
+  <template name="xt" value="read -t $sleep&#10;xdotool type --delay $delay &quot;$END$&quot;;" description="xdotools type" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="SHELL_SCRIPT" value="true" />
     </context>
