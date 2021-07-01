@@ -30,9 +30,10 @@
         <option value="http-client.private.env.json" />
         <option value="rest-api_2.http" />
         <option value="roukmouteDev.txt" />
+        <option value="screencast.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="rem.txt" />
+    <option name="lastOpenedScratch" value="composer_linux_windows.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
