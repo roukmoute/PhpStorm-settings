@@ -32,9 +32,10 @@
         <option value="roukmouteDev.txt" />
         <option value="screencast.txt" />
         <option value="Axel Paris.txt" />
+        <option value="proxy.pac" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam.txt" />
+    <option name="lastOpenedScratch" value="proxy.pac" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
