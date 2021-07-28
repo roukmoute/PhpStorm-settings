@@ -22,7 +22,6 @@
         <option value="scratch.html" />
         <option value="rem.txt" />
         <option value="scratch.md" />
-        <option value="Dockerfile" />
         <option value="rest-api.http" />
         <option value="rest-api_1.http" />
         <option value="http-client.env.json" />
@@ -35,7 +34,7 @@
         <option value="cnam_problem_install_skeleton.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="scratch.html" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
