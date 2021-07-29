@@ -4,15 +4,15 @@
       <mapping pattern="symfony_linux_386" type="AUTO_DETECTED" />
       <mapping pattern="Dockerpouet" type="AUTO_DETECTED" />
       <mapping ext="mp4" type="Native" />
-      <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern="phpunit" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".gittemplate" type="PLAIN_TEXT" />
-      <mapping pattern="password-rapport" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".gittemplate" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="phpunit" type="PLAIN_TEXT" />
+      <mapping pattern="password-rapport" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="fragments" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
