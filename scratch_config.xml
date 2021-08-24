@@ -33,9 +33,10 @@
         <option value="proxy.pac" />
         <option value="cnam_problem_install_skeleton.txt" />
         <option value="phpstan_feedback.txt" />
+        <option value="encrypt-bundle.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="phpstan_feedback.txt" />
+    <option name="lastOpenedScratch" value="encrypt-bundle.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
