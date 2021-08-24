@@ -32,9 +32,10 @@
         <option value="Axel Paris.txt" />
         <option value="proxy.pac" />
         <option value="cnam_problem_install_skeleton.txt" />
+        <option value="phpstan_feedback.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="vmware.txt" />
+    <option name="lastOpenedScratch" value="phpstan_feedback.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
