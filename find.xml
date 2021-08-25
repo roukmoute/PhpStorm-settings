@@ -20,5 +20,6 @@
     <mask>*.php</mask>
     <mask>*.volt</mask>
     <mask>*.js</mask>
+    <mask>*face.php</mask>
   </component>
 </application>
