@@ -7,14 +7,14 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP Local">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="8.0.6">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="8.0.9">
           <additional_php_ini>/etc/php/conf.d/memcached.ini, /etc/php/conf.d/xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.2">
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
               <debug_extensions />
             </debugger_info>
           </debuggers>
