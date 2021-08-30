@@ -34,9 +34,10 @@
         <option value="cnam_problem_install_skeleton.txt" />
         <option value="phpstan_feedback.txt" />
         <option value="encrypt-bundle.txt" />
+        <option value="sherlock.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="rem.txt" />
+    <option name="lastOpenedScratch" value="sherlock.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
