@@ -6,7 +6,6 @@
         <option value="scratch.json" />
         <option value="scratch.txt" />
         <option value="cnam.txt" />
-        <option value="_scratch.json" />
         <option value="cqrs_test.txt" />
         <option value="cqrs_versionning.txt" />
         <option value="scratch.php" />
@@ -37,7 +36,7 @@
         <option value="sherlock.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="_scratch.json" />
+    <option name="lastOpenedScratch" value="sherlock.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
