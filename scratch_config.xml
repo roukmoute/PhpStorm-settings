@@ -27,7 +27,6 @@
         <option value="http-client.private.env.json" />
         <option value="rest-api_2.http" />
         <option value="roukmouteDev.txt" />
-        <option value="screencast.txt" />
         <option value="Axel Paris.txt" />
         <option value="proxy.pac" />
         <option value="cnam_problem_install_skeleton.txt" />
@@ -36,7 +35,7 @@
         <option value="sherlock.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sherlock.txt" />
+    <option name="lastOpenedScratch" value="cnam.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
