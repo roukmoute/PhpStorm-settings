@@ -4,6 +4,7 @@
       <map>
         <entry key="editor.distraction.free.margin" value="10" />
         <entry key="ide.settings.move.mouse.on.default.button" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
   </component>
