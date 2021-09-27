@@ -34,9 +34,10 @@
         <option value="encrypt-bundle.txt" />
         <option value="sherlock.txt" />
         <option value="composer-plugin.txt" />
+        <option value="thunderbird.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sherlock.txt" />
+    <option name="lastOpenedScratch" value="thunderbird.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
