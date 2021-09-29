@@ -35,9 +35,11 @@
         <option value="sherlock.txt" />
         <option value="composer-plugin.txt" />
         <option value="thunderbird.txt" />
+        <option value="rest-api_3.http" />
+        <option value="rest-api_5.http" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="roukmouteDev.txt" />
+    <option name="lastOpenedScratch" value="scratch.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
