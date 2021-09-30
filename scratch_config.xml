@@ -3,7 +3,6 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.json" />
         <option value="scratch.txt" />
         <option value="cnam.txt" />
         <option value="cqrs_test.txt" />
@@ -39,7 +38,7 @@
         <option value="rest-api_5.http" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="rem.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
