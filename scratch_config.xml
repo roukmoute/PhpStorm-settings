@@ -37,9 +37,10 @@
         <option value="rest-api_3.http" />
         <option value="rest-api_5.http" />
         <option value="debian.txt" />
+        <option value="doctrine.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="debian.txt" />
+    <option name="lastOpenedScratch" value="doctrine.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
