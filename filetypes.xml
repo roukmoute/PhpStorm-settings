@@ -6,6 +6,7 @@
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".gittemplate" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
