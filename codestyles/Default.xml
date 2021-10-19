@@ -10,7 +10,11 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
   </PHPCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="PHP">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
@@ -25,28 +29,6 @@
     <option name="WRAP_ON_TYPING" value="0" />
     <arrangement>
       <tokens>
-        <token id="visibility" name="visibility">
-          <rules>
-            <rule>
-              <match>
-                <PUBLIC>true</PUBLIC>
-              </match>
-              <order>BY_NAME</order>
-            </rule>
-            <rule>
-              <match>
-                <PROTECTED>true</PROTECTED>
-              </match>
-              <order>BY_NAME</order>
-            </rule>
-            <rule>
-              <match>
-                <PRIVATE>true</PRIVATE>
-              </match>
-              <order>BY_NAME</order>
-            </rule>
-          </rules>
-        </token>
         <token id="modifiers" name="modifiers">
           <rules>
             <rule>
@@ -85,6 +67,28 @@
                   <PRIVATE>true</PRIVATE>
                   <STATIC>true</STATIC>
                 </AND>
+              </match>
+              <order>BY_NAME</order>
+            </rule>
+            <rule>
+              <match>
+                <PRIVATE>true</PRIVATE>
+              </match>
+              <order>BY_NAME</order>
+            </rule>
+          </rules>
+        </token>
+        <token id="visibility" name="visibility">
+          <rules>
+            <rule>
+              <match>
+                <PUBLIC>true</PUBLIC>
+              </match>
+              <order>BY_NAME</order>
+            </rule>
+            <rule>
+              <match>
+                <PROTECTED>true</PROTECTED>
               </match>
               <order>BY_NAME</order>
             </rule>
