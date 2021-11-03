@@ -2,6 +2,7 @@
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
     <keyboard-shortcut first-keystroke="alt left_parenthesis" />
+    <keyboard-shortcut first-keystroke="ctrl alt left_parenthesis" />
   </action>
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
