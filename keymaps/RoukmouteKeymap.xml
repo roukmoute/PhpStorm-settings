@@ -16,6 +16,10 @@
     <keyboard-shortcut first-keystroke="alt 4" />
     <keyboard-shortcut first-keystroke="alt quote" />
   </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="alt 9" />
+    <keyboard-shortcut first-keystroke="alt #10000c7" />
+  </action>
   <action id="Console.Jdbc.Debug">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
