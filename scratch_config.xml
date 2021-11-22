@@ -8,7 +8,6 @@
         <option value="cqrs_test.txt" />
         <option value="cqrs_versionning.txt" />
         <option value="scratch.php" />
-        <option value="scratch_1.php" />
         <option value="scratch1.md" />
         <option value="satis.txt" />
         <option value="vmware.txt" />
@@ -40,7 +39,7 @@
         <option value="doctrine.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch_1.php" />
+    <option name="lastOpenedScratch" value="sherlock.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
