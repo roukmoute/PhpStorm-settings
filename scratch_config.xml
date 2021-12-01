@@ -37,6 +37,7 @@
         <option value="rest-api_5.http" />
         <option value="debian.txt" />
         <option value="doctrine.txt" />
+        <option value="scratch.json" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="sherlock.txt" />
