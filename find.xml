@@ -3,12 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.yml</mask>
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.volt</mask>
     <mask>*.js</mask>
     <mask>*face.php</mask>
     <mask>*.md</mask>
-    <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -20,5 +19,7 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
