@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping pattern="symfony_linux_386" type="AUTO_DETECTED" />
       <mapping pattern="Dockerpouet" type="AUTO_DETECTED" />
-      <removed_mapping ext="es" type="ActionScript" />
-      <mapping ext="es" type="Elasticsearch" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
@@ -27,6 +25,7 @@
       <mapping ext="rpm" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
+      <removed_mapping ext="es" approved="true" type="ActionScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
