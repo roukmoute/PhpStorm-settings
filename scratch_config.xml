@@ -42,9 +42,11 @@
         <option value="windows11.xml" />
         <option value="debian.xml" />
         <option value="wintmp.xml" />
+        <option value="i3default.txt" />
+        <option value="i3new.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="debian.txt" />
+    <option name="lastOpenedScratch" value="i3new.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
