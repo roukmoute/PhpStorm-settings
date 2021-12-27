@@ -44,9 +44,10 @@
         <option value="wintmp.xml" />
         <option value="i3default.txt" />
         <option value="i3new.txt" />
+        <option value="Caddyfile" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="Caddyfile" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
