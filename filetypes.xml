@@ -19,6 +19,7 @@
       <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping ext="fragments" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
