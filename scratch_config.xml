@@ -45,9 +45,10 @@
         <option value="i3default.txt" />
         <option value="i3new.txt" />
         <option value="Caddyfile" />
+        <option value="lisa" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="debian.txt" />
+    <option name="lastOpenedScratch" value="lisa" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
