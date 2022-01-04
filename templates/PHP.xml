@@ -1,0 +1,8 @@
+<templateSet group="PHP">
+  <template name="phpmd.ignore" value="@SuppressWarnings(PHPMD.$END$)" description="PHPMD Suppressing Warnings" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,32 @@
+<templateSet group="Shell Script">
+  <template name="xk" value="sleep $sleep&#10;xdotool key --repeat $REPEAT$ --repeat-delay $DELAY$ &quot;$END$&quot;" description="xdotools key" toReformat="false" toShortenFQNames="true">
+    <variable name="REPEAT" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <variable name="DELAY" expression="" defaultValue="&quot;\&quot;$(bc &lt;&lt;&lt; 1000*$sleep)\&quot;&quot;" alwaysStopAt="false" />
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="xt" value="sleep $sleep&#10;xdotool type --delay $delay &quot;$END$&quot;;" description="xdotools type" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jp" value="read -t $sleep&#10;xdotool key &quot;Ctrl+e&quot;&#10;read -t $sleep&#10;xdotool type --delay 300 &quot;$END$&quot;;&#10;read -t $sleep&#10;xdotool key &quot;Return&quot;" description="jump to recent file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sc" value="read -t $sleep&#10;xdotool key &quot;Ctrl+semicolon&quot;&#10;read -t $sleep&#10;xdotool type --delay 300 &quot;$END$&quot;;&#10;read -t $sleep&#10;xdotool key &quot;Return&quot;" description="search chars" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="ms" value="xdotool mousedown 1&#10;for x in {$FROM$..$TO$}; do&#10;  xdotool mousemove $x $Y$&#10;done&#10;xdotool mouseup 1" description="Mouse Selection" toReformat="false" toShortenFQNames="true">
+    <variable name="FROM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TO" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Y" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
