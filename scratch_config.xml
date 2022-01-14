@@ -5,8 +5,10 @@
       <list>
         <option value="scratch.html" />
         <option value="conno" />
+        <option value="scratch.json" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="scratch.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
