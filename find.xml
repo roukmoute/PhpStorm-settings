@@ -17,8 +17,8 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
