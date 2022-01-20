@@ -3,11 +3,11 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.html" />
         <option value="scratch.json" />
+        <option value="scratch2.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.html" />
+    <option name="lastOpenedScratch" value="scratch.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
