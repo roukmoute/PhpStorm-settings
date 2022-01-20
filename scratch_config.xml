@@ -5,9 +5,11 @@
       <list>
         <option value="scratch.json" />
         <option value="scratch2.json" />
+        <option value="rest-api.http" />
+        <option value="sherlock.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="sherlock.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
