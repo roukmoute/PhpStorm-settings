@@ -38,9 +38,6 @@
         <option value="debian.txt" />
         <option value="doctrine.txt" />
         <option value="scratch.json" />
-        <option value="scratch2.json" />
-        <option value="rest-api.http" />
-        <option value="sherlock.txt" />
         <option value="monorepo.txt" />
         <option value="windows11.xml" />
         <option value="debian.xml" />
@@ -54,8 +51,7 @@
         <option value="scratch_3.jsonl" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sherlock.txt" />
-    <option name="lastOpenedScratch" value="Caddyfile" />
+    <option name="lastOpenedScratch" value="scratch.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
