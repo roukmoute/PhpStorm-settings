@@ -24,6 +24,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="rpm" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
       <removed_mapping ext="es" approved="true" type="ActionScript" />
