@@ -3,7 +3,20 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.txt" />
+        <option value="rest-api.http" />
+        <option value="sherlock.txt" />
+        <option value="scratch.json" />
+        <option value="monorepo.txt" />
+        <option value="windows11.xml" />
+        <option value="debian.xml" />
+        <option value="wintmp.xml" />
+        <option value="i3default.txt" />
+        <option value="i3new.txt" />
+        <option value="Caddyfile" />
+        <option value="lisa" />
+        <option value="anniv.txt" />
+        <option value="scratch_2.json" />
+        <option value="scratch_3.jsonl" />
         <option value="cnam.txt" />
         <option value="cqrs_test.txt" />
         <option value="cqrs_versionning.txt" />
