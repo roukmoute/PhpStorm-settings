@@ -62,9 +62,10 @@
         <option value="anniv.txt" />
         <option value="scratch_2.json" />
         <option value="scratch_3.jsonl" />
+        <option value="scratch.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sherlock.txt" />
+    <option name="lastOpenedScratch" value="rem.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
