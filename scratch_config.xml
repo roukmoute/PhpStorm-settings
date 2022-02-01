@@ -63,10 +63,10 @@
         <option value="scratch_2.json" />
         <option value="scratch_3.jsonl" />
         <option value="scratch.txt" />
-        <option value="debian2.xml" />
+        <option value="travail.xml" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="debian.xml" />
+    <option name="lastOpenedScratch" value="debian.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
