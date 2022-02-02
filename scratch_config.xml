@@ -13,7 +13,6 @@
         <option value="i3default.txt" />
         <option value="i3new.txt" />
         <option value="Caddyfile" />
-        <option value="lisa" />
         <option value="anniv.txt" />
         <option value="scratch_2.json" />
         <option value="scratch_3.jsonl" />
@@ -58,14 +57,15 @@
         <option value="i3default.txt" />
         <option value="i3new.txt" />
         <option value="Caddyfile" />
-        <option value="lisa" />
         <option value="anniv.txt" />
         <option value="scratch_2.json" />
         <option value="scratch_3.jsonl" />
         <option value="scratch.txt" />
+        <option value="travail.xml" />
+        <option value="token_gitlab.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sherlock.txt" />
+    <option name="lastOpenedScratch" value="debian.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
