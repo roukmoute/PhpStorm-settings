@@ -29,14 +29,9 @@
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="volt" type="Twig" />
       <removed_mapping ext="es" approved="true" type="ActionScript" />
-      <removed_mapping ext="es" approved="true" type="ActionScript" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ini" approved="true" type="Ini" />
-      <removed_mapping ext="ini" approved="true" type="Ini" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="pre-commit" type="BashPro Shell Script" />
