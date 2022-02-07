@@ -5,18 +5,18 @@
       <mapping pattern="Dockerpouet" type="AUTO_DETECTED" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.docker.empty" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern=".gittemplate" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker.local" type="PLAIN_TEXT" />
-      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.docker.empty" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="phpunit" type="PLAIN_TEXT" />
       <mapping pattern="password-rapport" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker" type="PLAIN_TEXT" />
       <mapping ext="fragments" type="PLAIN_TEXT" />
       <mapping ext="b64" type="PLAIN_TEXT" />
@@ -33,6 +33,7 @@
       <removed_mapping ext="ini" approved="true" type="Ini" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping pattern="pre-commit" type="BashPro Shell Script" />
       <mapping pattern="pre-push" type="BashPro Shell Script" />
       <mapping pattern="run_test" type="BashPro Shell Script" />
