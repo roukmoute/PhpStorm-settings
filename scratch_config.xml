@@ -53,7 +53,7 @@
         <option value="token_gitlab.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="debian.txt" />
+    <option name="lastOpenedScratch" value="monorepo.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
