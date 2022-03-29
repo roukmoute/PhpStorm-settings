@@ -18,7 +18,7 @@
     <mask>*.inc</mask>
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
