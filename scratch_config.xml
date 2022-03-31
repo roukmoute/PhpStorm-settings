@@ -3,57 +3,11 @@
     <option name="defaultScratchMeaning" value="TOPMOST" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="sherlock.txt" />
-        <option value="scratch.json" />
-        <option value="monorepo.txt" />
-        <option value="windows11.xml" />
-        <option value="debian.xml" />
-        <option value="wintmp.xml" />
-        <option value="i3default.txt" />
-        <option value="i3new.txt" />
-        <option value="Caddyfile" />
-        <option value="anniv.txt" />
-        <option value="cnam.txt" />
-        <option value="cqrs_test.txt" />
-        <option value="cqrs_versionning.txt" />
-        <option value="scratch.php" />
-        <option value="scratch1.md" />
-        <option value="satis.txt" />
-        <option value="vmware.txt" />
-        <option value="composer_linux_windows.md" />
-        <option value="scratch.js" />
-        <option value="depot_garantie.txt" />
-        <option value="lemonde.txt" />
-        <option value="scratch.html" />
-        <option value="scratch.md" />
-        <option value="http-client.env.json" />
-        <option value="http-client.private.env.json" />
-        <option value="roukmouteDev.txt" />
-        <option value="Axel Paris.txt" />
-        <option value="proxy.pac" />
-        <option value="cnam_problem_install_skeleton.txt" />
-        <option value="phpstan_feedback.txt" />
-        <option value="encrypt-bundle.txt" />
-        <option value="sherlock.txt" />
-        <option value="composer-plugin.txt" />
-        <option value="thunderbird.txt" />
-        <option value="debian.txt" />
-        <option value="doctrine.txt" />
-        <option value="scratch.json" />
-        <option value="monorepo.txt" />
-        <option value="windows11.xml" />
-        <option value="debian.xml" />
-        <option value="wintmp.xml" />
-        <option value="i3default.txt" />
-        <option value="i3new.txt" />
-        <option value="Caddyfile" />
-        <option value="anniv.txt" />
         <option value="scratch.txt" />
-        <option value="travail.xml" />
-        <option value="token_gitlab.txt" />
+        <option value="elastic.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam.txt" />
+    <option name="lastOpenedScratch" value="scratch.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
