@@ -6,9 +6,10 @@
         <option value="scratch.txt" />
         <option value="elastic.json" />
         <option value="api_ceph.txt" />
+        <option value="sherlock.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="elastic.json" />
+    <option name="lastOpenedScratch" value="sherlock.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
