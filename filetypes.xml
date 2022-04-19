@@ -3,9 +3,6 @@
     <extensionMap>
       <mapping pattern="symfony_linux_386" type="AUTO_DETECTED" />
       <mapping pattern="Dockerpouet" type="AUTO_DETECTED" />
-      <mapping pattern="pre-commit" type="BashPro Shell Script" />
-      <mapping pattern="pre-push" type="BashPro Shell Script" />
-      <mapping pattern="run_test" type="BashPro Shell Script" />
       <mapping ext="mp4" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern=".env.docker.empty" type="PLAIN_TEXT" />
@@ -37,6 +34,9 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml " approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <mapping pattern="pre-commit" type="BashPro Shell Script" />
+      <mapping pattern="pre-push" type="BashPro Shell Script" />
+      <mapping pattern="run_test" type="BashPro Shell Script" />
     </extensionMap>
   </component>
 </application>
