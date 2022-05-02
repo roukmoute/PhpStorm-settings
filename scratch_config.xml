@@ -4,7 +4,6 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.txt" />
-        <option value="elastic.json" />
         <option value="api_ceph.txt" />
         <option value="cnam.txt" />
         <option value="sherlock.txt" />
