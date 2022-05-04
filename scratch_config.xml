@@ -7,9 +7,10 @@
         <option value="api_ceph.txt" />
         <option value="cnam.txt" />
         <option value="sherlock.txt" />
+        <option value="swagger.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam.txt" />
+    <option name="lastOpenedScratch" value="swagger.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
