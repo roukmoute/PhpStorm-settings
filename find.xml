@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.volt</mask>
-    <mask>*.js</mask>
     <mask>*face.php</mask>
     <mask>*.md</mask>
     <mask>*.css</mask>
@@ -20,5 +19,6 @@
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
