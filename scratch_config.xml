@@ -8,9 +8,10 @@
         <option value="cnam.txt" />
         <option value="sherlock.txt" />
         <option value="swagger.txt" />
+        <option value="json.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="sherlock.txt" />
+    <option name="lastOpenedScratch" value="json.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
