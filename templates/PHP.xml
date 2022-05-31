@@ -10,4 +10,9 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="reflprop" value="$reflectionClass = new ReflectionClass($object);&#10;$reflectionProperty = $reflectionClass-&gt;getProperty('property');&#10;$reflectionProperty-&gt;setAccessible(true);&#10;$reflectionProperty-&gt;setValue($object, 'value');" description="Modifier une propriété d'une classe via la reflection" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
