@@ -18,7 +18,7 @@
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.md</mask>
+    <mask>*.php</mask>
   </component>
 </application>
