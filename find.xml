@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Everywhere" />
+    <option name="defaultScopeName" value="Everywhere" />
+    <option name="SEARCH_SCOPE" value="Everywhere" />
     <mask>*.volt</mask>
     <mask>*face.php</mask>
     <mask>*.css</mask>
