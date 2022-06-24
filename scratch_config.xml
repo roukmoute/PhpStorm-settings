@@ -8,12 +8,10 @@
         <option value="cnam.txt" />
         <option value="sherlock.txt" />
         <option value="swagger.txt" />
-        <option value="json.json" />
         <option value="scratch.js" />
         <option value="openapi.yaml" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="json.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
