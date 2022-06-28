@@ -8,8 +8,8 @@
         <option value="cnam.txt" />
         <option value="sherlock.txt" />
         <option value="swagger.txt" />
-        <option value="scratch.js" />
         <option value="openapi.yaml" />
+        <option value="scratch.json" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="sherlock.txt" />
