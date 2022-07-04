@@ -10,6 +10,7 @@
         <option value="swagger.txt" />
         <option value="openapi.yaml" />
         <option value="scratch.json" />
+        <option value="rest-api.http" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="cnam.txt" />
