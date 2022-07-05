@@ -9,8 +9,8 @@
         <option value="sherlock.txt" />
         <option value="swagger.txt" />
         <option value="openapi.yaml" />
-        <option value="scratch.json" />
         <option value="rest-api.http" />
+        <option value="scratch.json" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="scratch.json" />
