@@ -14,6 +14,7 @@
         <option value="rest-api_1.http" />
         <option value="rest-api_2.http" />
         <option value="rest-api_3.http" />
+        <option value="sherlock.http" />
       </list>
     </option>
     <option name="lastOpenedScratch" value="cnam.txt" />
