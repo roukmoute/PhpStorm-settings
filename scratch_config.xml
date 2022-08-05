@@ -16,9 +16,10 @@
         <option value="rest-api_3.http" />
         <option value="sherlock.http" />
         <option value="scratch.php" />
+        <option value="scratch.adoc" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="scratch.adoc" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
