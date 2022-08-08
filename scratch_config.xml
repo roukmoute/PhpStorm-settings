@@ -17,9 +17,10 @@
         <option value="sherlock.http" />
         <option value="scratch.php" />
         <option value="scratch.adoc" />
+        <option value="scratch.md" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.php" />
+    <option name="lastOpenedScratch" value="scratch.md" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
