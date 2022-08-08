@@ -9,17 +9,14 @@
         <option value="sherlock.txt" />
         <option value="swagger.txt" />
         <option value="openapi.yaml" />
-        <option value="rest-api.http" />
         <option value="scratch.json" />
-        <option value="rest-api_1.http" />
-        <option value="rest-api_2.http" />
-        <option value="rest-api_3.http" />
         <option value="sherlock.http" />
         <option value="scratch.php" />
         <option value="scratch.adoc" />
+        <option value="cnam.http" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam.txt" />
+    <option name="lastOpenedScratch" value="scratch.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
