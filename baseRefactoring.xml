@@ -10,6 +10,5 @@
     <option name="EXTRACT_METHOD_GENERATE_PHPDOC" value="false" />
     <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
     <option name="MOVE_CLASS_SEARCH_IN_TEXT_OCCURRENCES" value="true" />
-    <option name="INLINE_LOCAL_THIS" value="true" />
   </component>
 </application>
