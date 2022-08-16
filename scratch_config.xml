@@ -15,9 +15,10 @@
         <option value="scratch.adoc" />
         <option value="cnam.http" />
         <option value="scratch.md" />
+        <option value="scratch.css" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.md" />
+    <option name="lastOpenedScratch" value="scratch.css" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
