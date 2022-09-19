@@ -16,9 +16,10 @@
         <option value="cnam.http" />
         <option value="scratch.css" />
         <option value="stack.txt" />
+        <option value="jeune_afrique.txt" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.txt" />
+    <option name="lastOpenedScratch" value="jeune_afrique.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
