@@ -19,9 +19,11 @@
         <option value="jeune_afrique.txt" />
         <option value="ja.txt" />
         <option value="rest.php" />
+        <option value="scratch.sh" />
+        <option value="scratch.ùd" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="cnam.txt" />
+    <option name="lastOpenedScratch" value="scratch.sh" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
